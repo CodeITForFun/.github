@@ -1,18 +1,10 @@
 ﻿# Hi <img width="35" src="https://github.com/Ragy-Development/.github/blob/main/files/imgs/hello.gif">, We´re Ragy
   <div>
-    <h2 align="center"> 📊 GitHub Stats </h2>
+    <h2 align="center"> 💻 SpigotMC </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/Ragy-Development/">
-          </p>
-        <p align="center">
-          <a href="https://www.spigotmc.org/members/_fungy_.1021787/">
+          <a href="https://www.spigotmc.org/members/_fungy_.1021787/" target="_blank">
           <img src="https://static.spigotmc.org/img/spigot.png">
-         </a>
-       </p>
-     <br>
-  </div>    
-  <br/>
-  <h2 align="center"> latest contribution </h2>
-<img alt="" src="https://activity-graph.herokuapp.com/graph/?username=Ragy-Development&bg_color=111&color=fff&line=00A676&point=FFF&hide_border=true" />
-<details>
+        </p>
+    <br>
+  </div>
