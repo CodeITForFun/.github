@@ -4,7 +4,6 @@
       <br/>
         <p align="center">
           <a href="https://github.com/Ragy-Development/">
-          
           </p>
         <p align="center">
           <a href="https://www.spigotmc.org/members/_fungy_.1021787/">
