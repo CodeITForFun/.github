@@ -7,7 +7,8 @@
           
           </p>
         <p align="center">
-          <a href="https://github.com/Ragy-Development/">
+          <a href="https://www.spigotmc.org/members/_fungy_.1021787/">
+          <img src="https://static.spigotmc.org/img/spigot.png">
          </a>
        </p>
      <br>
