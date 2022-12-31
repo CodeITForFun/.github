@@ -7,7 +7,6 @@
           <img src="https://static.spigotmc.org/img/spigot.png">
         </p>
     <br>
-          
     <h2 align="center"> 📃 Discord Support Server </h2>
       <br/>
         <p align="center">
