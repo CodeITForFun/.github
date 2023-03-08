@@ -1,4 +1,4 @@
-﻿# Hi <img width="35" src="https://github.com/Ragy-Development/.github/blob/main/files/imgs/hello.gif">, We are Ragy Development!
+﻿# Hi <img width="35" src="https://github.com/Ragy-Development/.github/blob/main/files/imgs/hello.gif">, We are CodeIT!
   <div>
     <h2 align="center"> 💻 SpigotMC </h2>
       <br/>
